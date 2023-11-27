@@ -13,4 +13,4 @@ redirect_from:
 If the embedded PDF below does not load, you can <u><a href="https://tungchuw.github.io/files/tung-cv.pdf">download it here.</a></u> 
 
  
- <embed src="https://tungchuw.github.io/files/tung-cv.pdf" type="application/pdf" width="100%" /></div>
+ <embed src="https://tungchuw.github.io/files/tung-cv.pdf" type="application/pdf" width="100%" />
