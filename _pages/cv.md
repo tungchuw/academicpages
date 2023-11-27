@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-======
 If the embedded PDF below does not load, you can <u><a href="https://stuartgeiger.com/geiger-cv.pdf">download it here.</a></u> <br/> 
 
  
