@@ -11,6 +11,6 @@ citation: ''
 
 Authors:<br> **Chia-Hao Tung**, Meng-Fan Huang, Chen-Hsien Liang, Yi-Ying Wu, Jia-En Wu, Cheng-Lung Hsu, Yuh-Ling Chen<i class="fa fa-envelope"></i> and Tse-Ming Hong<i class="fa fa-envelope"></i> 
 
-[Full text from journal](https://doi.org/10.1016/j.omtn.2022.01.012)<br>
+[Full text from journal](https://doi.org/10.7150/thno.63627)<br>
 [Download paper from journal](https://www.thno.org/v12p1173.pdf)
  <embed src="https://www.thno.org/v12p1173.pdf" width="100%" />
