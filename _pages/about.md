@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Chia-Hao, an Postdoctoral Scholar at the University of Washington in the Department of Genome Sciences.
+Hi! I’m , an Postdoctoral Scholar at the University of Washington in the Department of Genome Sciences.
 
 My work and research
 ======
